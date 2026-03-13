@@ -12,8 +12,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: did:iden3:billions:main:2VuC1gPENSX33ZjYzR6rZ7ajwJr754BYQLF1oqcBwt
-        uses: did:iden3:billions:main:2VuC1gPENSX33ZjYzR6rZ7ajwJr754BYQLF1oqcBwt
+      - name: irfanfauzi14041992
+        uses: irfanfauzi14041992
 
       - name: Verify identity
         run: echo "Agent verification workflow running"
