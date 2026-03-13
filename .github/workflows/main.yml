@@ -12,8 +12,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: did:iden3:billions:main:2VuC1gPENSX33ZjYzR6rZ7ajwJr754BYQLF1oqcBwt
+        uses: did:iden3:billions:main:2VuC1gPENSX33ZjYzR6rZ7ajwJr754BYQLF1oqcBwt
 
       - name: Verify identity
         run: echo "Agent verification workflow running"
